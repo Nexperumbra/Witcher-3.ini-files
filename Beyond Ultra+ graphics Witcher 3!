@@ -1,0 +1,14 @@
+If you make changes to your .ini files you can push the graphics past the ultra+settings on the Witcher 3!
+I'm not an expert, just someone who was messing around with stuff and learned that you can do so.
+There's all kinds of changes you can make, but here are some of the ones that I've personally done myself.
+You may make changes to the grass density/shadows/lighting/LOD/distance rendering/etc which allows it to go further than what the game typically allows. 
+In the dx12.ini file you may change the grass density=6000 even higher to have the game increase the density of foliage throughout the game. 
+This fills in the empty places throughout the game quite nicely. I personally have set mine to 18000, 3x higher than what the game uses on ultra+.
+I've also increased the rendering speed up to .555, much higher than the original, which I assume allows the game to generate the grass faster as you're moving.
+You can increase your MeshLODdistancescale and Terraindistancescales as well, allowing you to render things further, giving far away objects more detail. 
+You may also make changes to the light ray distances, shadow size, hairworks, decals, etc. I've not done them all, and learned through trial and error. 
+Any changes I made never caused any harm to the game, if you mess anything up you'll just have low setting graphics in the game and all you need to do is reset the ini files.
+I just make backups prior to doing so and then fool around with them. I have noticed OneDrive can mess it up and revert them, so I suggest turning it off for the duration that you're messing around with them.
+So yeah, just change what you want and have fun! Enjoy better graphics! Assuming you have the gpu capacity for this. I personally have a 4090, with the changes I've made running everything on ultra! with ray tracing I average 80 fps in 4096x2160 resolution.
+Don't adjust the games graphics after changing the ini files, or the game will revert the ini files! 
+
